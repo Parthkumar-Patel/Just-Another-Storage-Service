@@ -61,7 +61,7 @@ JASS (Just-Another-Storage-Service) is a web application which serves the purpos
 ### Architecture
 
 <p align="center">
-    <img src="images/Architecture.jpg"> 
+    <img src="images/Architecture.png"> 
 </p>
 
 ### Built With
