@@ -101,7 +101,7 @@ JASS (Just-Another-Storage-Service) is a web application which serves the purpos
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthkumar-Patel/Just-Another-Storage-Service.git
+   git clone https://github.com/Patel-Parthkumar/Just-Another-Storage-Service.git
    ```
 2. Change directory to the folder
    ```sh
