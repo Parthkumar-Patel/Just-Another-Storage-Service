@@ -74,10 +74,10 @@ JASS (Just-Another-Storage-Service) is a web application which serves the purpos
 * [AWS](https://aws.amazon.com/)
 * [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 * [HerokuCLI](https://devcenter.heroku.com/articles/heroku-cli)
-* [Axios] (https://axios-http.com/docs/intro)
+* [Axios](https://axios-http.com/docs/intro)
 * [React Bootstrap](https://remotestack.io/react-bootstrap-login-register-ui-templates/)
 * [Material-UI](https://mui.com/)
-* [Font Awesome 5] (https://www.w3schools.com/icons/fontawesome5_intro.asp)
+* [Font Awesome 5](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 
 #### AWS Services
 
@@ -101,7 +101,7 @@ JASS (Just-Another-Storage-Service) is a web application which serves the purpos
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthp1810/Just-Another-Storage-Service.git
+   git clone https://github.com/Parthkumar-Patel/Just-Another-Storage-Service.git
    ```
 2. Change directory to the folder
    ```sh
